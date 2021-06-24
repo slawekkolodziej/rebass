@@ -1,6 +1,6 @@
 {
-  "name": "rebass",
-  "version": "4.0.7",
+  "name": "@slawekkolodziej/rebass",
+  "version": "4.1.0",
   "description": "React primitive UI components built with Styled System",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
@@ -26,9 +26,9 @@
   "dependencies": {
     "reflexbox": "^4.0.6"
   },
-  "repository": "rebassjs/rebass",
+  "repository": "slawekkolodziej/rebass",
   "bugs": {
-    "url": "https://github.com/rebassjs/rebass/issues"
+    "url": "https://github.com/slawekkolodziej/rebass/issues"
   },
   "gitHead": "f0f01843e9fb63ca69112d7e97a1451b27ee9e6c"
 }
