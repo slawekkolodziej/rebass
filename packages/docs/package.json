@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "docs",
-  "version": "4.0.7",
+  "version": "4.1.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -15,6 +15,7 @@
   "dependencies": {
     "@jxnblk/react-live": "^2.1.2-1",
     "@mdx-js/mdx": "^1.1.4",
+    "@slawekkolodziej/rebass": "^4.1.0",
     "@slawekkolodziej/rebass-forms": "^4.1.0",
     "@slawekkolodziej/rebass-layout": "^4.1.0",
     "@slawekkolodziej/rebass-preset": "^4.1.0",
@@ -33,7 +34,6 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-helmet": "^6.0.0",
-    "@slawekkolodziej/rebass": "^4.1.0",
     "remark-slug": "^5.1.2",
     "theme-ui": "^0.3.1"
   }
