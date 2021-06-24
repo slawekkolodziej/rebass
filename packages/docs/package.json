@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "docs",
-  "version": "4.1.0",
+  "version": "4.1.1",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -15,12 +15,12 @@
   "dependencies": {
     "@jxnblk/react-live": "^2.1.2-1",
     "@mdx-js/mdx": "^1.1.4",
-    "@slawekkolodziej/rebass": "^4.1.0",
-    "@slawekkolodziej/rebass-forms": "^4.1.0",
-    "@slawekkolodziej/rebass-layout": "^4.1.0",
-    "@slawekkolodziej/rebass-preset": "^4.1.0",
-    "@slawekkolodziej/rebass-preset-material": "^4.1.0",
-    "@slawekkolodziej/rebass-space": "^4.1.0",
+    "@slawekkolodziej/rebass": "^4.1.1",
+    "@slawekkolodziej/rebass-forms": "^4.1.1",
+    "@slawekkolodziej/rebass-layout": "^4.1.1",
+    "@slawekkolodziej/rebass-preset": "^4.1.1",
+    "@slawekkolodziej/rebass-preset-material": "^4.1.1",
+    "@slawekkolodziej/rebass-space": "^4.1.1",
     "@theme-ui/presets": "^0.3.0",
     "@theme-ui/prism": "^0.3.0",
     "@theme-ui/sidenav": "^0.3.1",
