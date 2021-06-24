@@ -1,6 +1,6 @@
 {
-  "name": "@rebass/bundler",
-  "version": "4.0.5",
+  "name": "@slawekkolodziej/rebass-bundler",
+  "version": "4.1.0",
   "bin": {
     "rebass-bundler": "./index.js"
   },

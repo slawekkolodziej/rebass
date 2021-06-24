@@ -1,5 +1,5 @@
 import React, { forwardRef } from 'react'
-import { Box, Flex } from 'reflexbox'
+import { Box, Flex } from '@slawekkolodziej/reflexbox'
 
 export { Box, Flex }
 

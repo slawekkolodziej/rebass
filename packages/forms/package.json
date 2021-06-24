@@ -1,13 +1,13 @@
 {
-  "name": "@rebass/forms",
-  "version": "4.0.6",
+  "name": "@slawekkolodziej/rebass-forms",
+  "version": "4.1.0",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
   "scripts": {
     "prepare": "rebass-bundler"
   },
   "dependencies": {
-    "reflexbox": "^4.0.6"
+    "@slawekkolodziej/reflexbox": "^4.1.0"
   },
   "repository": "rebassjs/rebass",
   "bugs": {
